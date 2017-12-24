@@ -1,0 +1,7 @@
+git init -> inicializar
+git clone -> clona un repositorio, util para traerlo desde github
+git status -> Muestra el estado de los ficheros
+git add -> añade los ficheros nuevos a la preparación, o confirma las modificaciones a la preparación
+git commit -m "comentario" confirma los cambios en preparación en el repositorio
+git reset HEAD <file> -> Resetea los cambios a la versión de preparación
+git commit -a -m "comentario" confirma las modificaciones y la preparación al repositorio directamente
